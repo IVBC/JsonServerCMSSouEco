@@ -1,0 +1,34 @@
+{
+  "secondaryEmails": [
+    {
+      "id": 1,
+      "email": "deamb@tce.gov.br",
+      "typeReport": "Lixo",
+      "city": "Manaus",
+      "state": "Amazonas",
+      "country": "Brasil",
+      "includeTCE": false
+    },
+    {
+      "id": 2,
+      "email": "prodam@prodam.gov.br",
+      "typeReport": "Desmatamento",
+      "city": "Iranduba",
+      "state": "Amazonas",
+      "country": "Brasil",
+      "includeTCE": true
+    },
+    {
+      "id": 3,
+      "email": "narnia@narnia.gov.br",
+      "typeReport": "Água",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brasil",
+      "includeTCE": false
+    }
+  ],
+  "primaryEmail": {
+    "email": "app.ecocidadao@gmail.com"
+  }
+}
